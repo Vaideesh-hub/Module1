@@ -10,6 +10,7 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 ## 🧾 Program
 c='T'
 print(c)
+
 b='a'
 print(b)
 ## Output
